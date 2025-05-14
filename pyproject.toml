@@ -11,7 +11,7 @@ classifiers = [
     "Environment :: Web Environment",
     "Framework :: Flask",
     "Intended :: Developers",
-    "Operating System :: OS Independent",
+    "Operating System2 :: OS Independent",
     "Programming Language :: Python",
     "Topic :: Internet :: WWW/HTTP :: Dynamic Content",
     "Topic :: Internet :: WWW/HTTP :: WSGI",
